@@ -20,9 +20,9 @@ void Search (int data [50], int n){
         }
    cout << endl;
       if(ada == 0){
-       cout << " Hasil Searching : Data Tidak Berhasil Ditemukan" << endl;
+       cout << " Hasil Searching : Data Tidak Ditemukan" << endl;
     } else {
-            cout << " Hasil Searching : Ada " << ada << " Data yang  Berhasil Ditemukan" << endl;
+            cout << " Hasil Searching : Ada " << ada << " Data Berhasil Ditemukan" << endl;
     }
 } 
  
@@ -82,9 +82,9 @@ void Search (int data [50], int n){
         }
    cout << endl;
       if(ada == 0){
-       cout << " Hasil Searching : Data Tidak Berhasil Ditemukan" << endl;
+       cout << " Hasil Searching : Data Tidak Ditemukan" << endl;
     } else {
-            cout << " Hasil Searching : Ada " << ada << " Data yang  Berhasil Ditemukan" << endl;
+            cout << " Hasil Searching : Ada " << ada << " Data Berhasil Ditemukan" << endl;
     }
 } 
  
